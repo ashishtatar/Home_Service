@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "744130531264",
+    "firebase_url": "https://test-e001e.firebaseio.com",
+    "project_id": "test-e001e",
+    "storage_bucket": "test-e001e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744130531264:android:3509a3965b5a7ae5d58225",
+        "android_client_info": {
+          "package_name": "com.example.milind.homeservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744130531264-15i1bbc8ijcnr99h4268kk0jrehtegsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkbjUHMqtELg7LTtrnU3lCJthCebtm1jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744130531264-15i1bbc8ijcnr99h4268kk0jrehtegsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
